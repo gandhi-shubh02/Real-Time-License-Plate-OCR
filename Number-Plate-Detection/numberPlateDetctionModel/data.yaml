@@ -1,0 +1,16 @@
+names:
+- licenseplate
+nc: 1
+roboflow:
+  license: Public Domain
+  project: yolov7-license-plate-detection
+  url: https://universe.roboflow.com/kanwal-masroor-gv4jr/yolov7-license-plate-detection/dataset/3
+  version: 3
+  workspace: kanwal-masroor-gv4jr
+path: /content/yolov7-license-plate-detection-3
+test: test/images
+train: train/images
+val: valid/images
+batch-size: 32
+subdivisions: 2
+cache-images: true
